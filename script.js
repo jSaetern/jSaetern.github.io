@@ -5,20 +5,20 @@ function main() {
   $('.about').fadeIn(2000);
 
   $('.resume').hide();
-  $('.resume').fadeIn(4000);
+  $('.resume').fadeIn(3000);
   
   $('.linkedin').hide();
-  $('.linkedin').fadeIn(6000);
+  $('.linkedin').fadeIn(4000);
 
   $('.projects').hide();
-  $('.projects').fadeIn(8000);
+  $('.projects').fadeIn(5000);
 
   $('.contact').hide();
-  $('.contact').fadeIn(10000);
+  $('.contact').fadeIn(6000);
 
   $('.aboutPage').hide();
   $('.about').click(function() {
-    $('.aboutPage').fadeToggle(3000);
+    $('.aboutPage').fadeToggle(1000);
   })
 
 }
