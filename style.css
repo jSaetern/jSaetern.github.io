@@ -62,9 +62,12 @@
   height: 25em;
   float: left;
   letter-spacing: 1px;
-
 }
 
 h1 {
   color: #FDB927;
+}
+
+body {
+  background-image: url("dl.dropboxusercontent.com/s/x61ozzomqtov5mn/backround.png?dl=0");
 }
