@@ -1,5 +1,5 @@
 .center {
-  width: 350px;
+  width: 400px;
   height: 50px;
   position: absolute;
   top:0;
@@ -24,6 +24,11 @@
 }
 
 .resume {
+  color: #FDB927;
+  float:left;
+}
+
+.linkedin {
   color: #FDB927;
   float:left;
 }
