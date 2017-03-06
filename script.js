@@ -18,7 +18,7 @@ function main() {
 
   $('.aboutPage').hide();
   $('.about').click(function() {
-    $('.aboutPage').fadeToggle(2000);
+    $('.aboutPage').fadeToggle(3000);
   })
 
 }
