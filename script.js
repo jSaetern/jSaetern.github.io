@@ -15,6 +15,9 @@ function main() {
 
   $('.contact').hide();
   $('.contact').fadeIn(6000);
+  
+  $('#body').hide();
+  $('#body').fadeIn(8000);
 
   $('.aboutPage').hide();
   $('.about').click(function() {
