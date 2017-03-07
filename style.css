@@ -1,5 +1,5 @@
 .center {
-  width: 400px;
+  width: 500px;
   height: 50px;
   position: absolute;
   top:0;
@@ -70,4 +70,6 @@ h1 {
 
 body {
   background-image: url("https://www.dropbox.com/s/x61ozzomqtov5mn/backround.png?raw=1");
+  background-position: center;
+  background-repeat: no-repeat;
 }
