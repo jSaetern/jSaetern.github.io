@@ -72,4 +72,5 @@ body {
   background-image: url("https://www.dropbox.com/s/x61ozzomqtov5mn/backround.png?raw=1");
   background-position: center;
   background-repeat: no-repeat;
+  background-attachment: fixed;
 }
